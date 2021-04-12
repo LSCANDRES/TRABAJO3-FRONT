@@ -18,17 +18,12 @@ function llamarparlante(){
  
 
 
-const cambiopantalla =document.querySelector("#consolas")
 
+/* 
+const cambiotarjeta=document.querySelector("#precio")
+    cambiotarjeta.innerHTML='<h2>18000$</h2>' */
 
-cambiopantalla.addEventListener('click', (abrir) => {
-    window.open("../pruebas/prueba.html")
-    cambiotarjeta.innerHTML='<h2>18000$</h2>'
-
-
-    const cambiotarjeta=document.querySelector("#precio")
-    cambiotarjeta.innerHTML='<h2>18000$</h2>'
-
+    const cambiopantalla =document.querySelector("#consolas")
+    cambiopantalla.addEventListener('click', (abrir) => {
+    window.open("../pruebas/prueba.html")})
     
-    
-})
