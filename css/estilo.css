@@ -1,8 +1,23 @@
 .tamaño{
 
 
-    width: 480px;
-    height: 250px;
+    width: 200px;
+    height: 300px;   
+}
 
+.footer{
+
+
+    color: rgb(14, 8, 8);
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(105, 179, 243);
+    font-style: italic;
+
+    bottom: 0;
+    position: fixed;
     
+    
+
+
 }
