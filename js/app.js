@@ -38,7 +38,7 @@
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="./html/oferta/caraca20.html" class="btn btn-primary">Go somewhere</a>
+            <a href="./html/oferta/caraca20.html" class="btn btn-primary">Comprar</a>
           </div>
         </div></td>
         <td>
@@ -47,7 +47,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <a href="#" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -57,7 +57,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caraca31.html" class="btn btn-primary">Caracteristicas</a>
+              <a href="./html/oferta/caraca31.html" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -71,7 +71,7 @@
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="./html/oferta/caracaire.html" class="btn btn-primary">Caracteristicas</a>
+            <a href="./html/oferta/caracaire.html" class="btn btn-primary">Comprar</a>
           </div>
         </div></td>
         <td>
@@ -80,7 +80,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Caracteristicas</a>
+              <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -90,7 +90,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caracpc.html" class="btn btn-primary">Caracteristicas</a>
+              <a href="./html/oferta/caracpc.html" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -103,7 +103,7 @@
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Caracteristicas</a>
+            <a href="#" class="btn btn-primary">Comprar</a>
           </div>
         </div></td>
         <td>
@@ -112,7 +112,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Caracteristicas</a>
+              <a href="#" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -122,7 +122,7 @@
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Caracteristicas</a>
+              <a href="#" class="btn btn-primary">Comprar</a>
             </div>
           </div>
         </td>
@@ -138,7 +138,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <a href="#" class="btn btn-primary">Comprar</a>
     </div>
   </div>
   
@@ -153,7 +153,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">Comprar</a>
   </div>
 </div>
 
@@ -167,7 +167,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -180,7 +180,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -193,7 +193,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -206,7 +206,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -219,7 +219,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -232,7 +232,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card-body">
   <h5 class="card-title">Card title</h5>
   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Comprar</a>
 </div>
 </div>
 
@@ -248,7 +248,7 @@ Cambiocontenido.innerHTML=`<table>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="./html/oferta/caraca20.html" class="btn btn-primary">Go somewhere</a>
+      <a href="./html/oferta/caraca20.html" class="btn btn-primary">Comprar</a>
     </div>
   </div></td>
   <td>
@@ -257,7 +257,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
@@ -267,7 +267,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a id="caract" href="./html/oferta/caraca31.html" class="btn btn-primary">Caracteristicas</a>
+        <a id="caract" href="./html/oferta/caraca31.html" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
@@ -281,7 +281,7 @@ Cambiocontenido.innerHTML=`<table>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="./html/oferta/caracaire.html" class="btn btn-primary">Caracteristicas</a>
+      <a href="./html/oferta/caracaire.html" class="btn btn-primary">Comprar</a>
     </div>
   </div></td>
   <td>
@@ -290,7 +290,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Caracteristicas</a>
+        <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
@@ -300,7 +300,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="./html/oferta/caracpc.html" class="btn btn-primary">Caracteristicas</a>
+        <a href="./html/oferta/caracpc.html" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
@@ -313,7 +313,7 @@ Cambiocontenido.innerHTML=`<table>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#" class="btn btn-primary">Caracteristicas</a>
+      <a href="#" class="btn btn-primary">Comprar</a>
     </div>
   </div></td>
   <td>
@@ -322,7 +322,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Caracteristicas</a>
+        <a href="#" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
@@ -332,7 +332,7 @@ Cambiocontenido.innerHTML=`<table>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Caracteristicas</a>
+        <a href="#" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </td>
