@@ -286,6 +286,18 @@ Cambiocontenido.innerHTML=`<table>
   </div></td>
   <td>
     <div class="card" style="width: 18rem;">
+      <img class="tamaño" src="./img/cpu.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">CPU GAMER</h5>
+        <p class="card-text">149000$</p>
+        <a href="" class="btn btn-primary">Comprar</a>
+        <a href="./html/oferta/caraccortadora.html" class="btn">Caracteristicas</a>
+      </div>
+      </div>
+    </div>
+  </td>
+  <td>
+    <div class="card" style="width: 18rem;">
       <img class="tamaño" src="./img/bordeadora.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Bordeadora hogareña</h5>
@@ -296,17 +308,7 @@ Cambiocontenido.innerHTML=`<table>
       </div>
     </div>
   </td>
-  <td>
-    <div class="card" style="width: 18rem;">
-      <img class="tamaño" src="./img/cpu.png" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">CPU GAMER</h5>
-        <p class="59999$</p>
-        <a href="" class="btn">Comprar</a>
-        <a href="./html/oferta/caracpc.html" class="btn btn-primary">Caracteristicas</a>
-      </div>
-    </div>
-  </td>
+ 
   
 </tr>
 <tr>  
