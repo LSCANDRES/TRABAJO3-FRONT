@@ -19,10 +19,58 @@
     document.getElementById("bordeadora").addEventListener("click",Cambiobordeadora);
     document.getElementById("desmalezadora").addEventListener("click",Cambiodesmalezadora);
     document.getElementById("oferta").addEventListener("click",Cambiooferta);
+    
+    document.getElementById("notebooks").addEventListener("click",Cambionotebooks);
+    document.getElementById("cpu").addEventListener("click",Cambiocpu);
+    document.getElementById("perifericos").addEventListener("click",Cambioperifericos);
   }
 
 
-    
+
+
+  function Cambioperifericos(){
+    const Cambiocontenido =document.querySelector("#divcentral")
+Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="./img/gpu1650super.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">PLACA DE VIDEO 1650S</h5>
+    <p class="card-text">48000$$</p>
+    <a href="#" class="btn btn-primary">Comprar</a>
+    <a href="#" class="btn">Caracteristicas</a>
+  </div>
+</div>
+
+</div>`;}
+
+  function Cambiocpu(){
+    const Cambiocontenido =document.querySelector("#divcentral")
+Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="./img/cpuoficina.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Cpu oficina I3</h5>
+    <p class="card-text">74000$</p>
+    <a href="#" class="btn btn-primary">Comprar</a>
+    <a href="#" class="btn">Caracteristicas</a>
+  </div>
+</div>
+
+</div>`;}
+  function Cambionotebooks(){
+    const Cambiocontenido =document.querySelector("#divcentral")
+Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="./img/notebook.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">notebook GAMER I7 HP</h5>
+    <p class="card-text">19000$</p>
+    <a href="#" class="btn btn-primary">Comprar</a>
+    <a href="#" class="btn">Caracteristicas</a>
+  </div>
+</div>
+
+</div>`;}
 
     function Cambioestereo(){
             const Cambiocontenido =document.querySelector("#divcentral")
@@ -83,9 +131,7 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
     </div>
   </div>
   
-  </div>`;}
-
-  
+  </div>`;}  
   function Cambioconsolas(){
     const Cambiocontenido =document.querySelector("#divcentral")
 Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
