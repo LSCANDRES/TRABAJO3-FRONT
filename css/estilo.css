@@ -9,15 +9,12 @@
 
 
     color: rgb(14, 8, 8);
-    text-align: center;
     font-size: 20px;
     background-color: rgb(105, 179, 243);
     font-style: italic;
-
     bottom: 0;
+    width: 100%;
+    height: 100px;
     position: fixed;
-    
-    
-
-
+    text-align: center;
 }

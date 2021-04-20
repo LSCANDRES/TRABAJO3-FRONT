@@ -36,99 +36,39 @@
         <td ><div class="card" style="width: 18rem;">
           <img class="tamaño" src="./img/estereo1.jpg" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="./html/oferta/caraca20.html" class="btn btn-primary">Comprar</a>
+            <h5 class="card-title">Estereo Sony</h5>
+            <p class="card-text">16000$</p>
+            <a href="..." class="btn btn-primary">Comprar</a>
+            <a href="./html/oferta/caraca20.html" class="btn">Caracteristicas</a>
           </div>
         </div></td>
         <td>
           <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="..." class="card-img-top" alt="...">
+            <img class="tamaño" src="./img/estereonoblex.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 class="card-title">Noblex</h5>
+              <p class="card-text">8900$</p>
               <a href="#" class="btn btn-primary">Comprar</a>
+              <a href="#" class="btn">Caracteristicas</a>
+              
             </div>
           </div>
         </td>
         <td>
-          <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="" class="card-img-top" alt="...">
+            <div class="card" style="width: 18rem;">
+            <img class="tamaño" src="./img/parlantesony2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caraca31.html" class="btn btn-primary">Comprar</a>
+              <h5 class="card-title">SONY</h5>
+              <p class="card-text">11900$</p>
+              <a href="#" class="btn btn-primary">Comprar</a>
+              <a href="#" class="btn">Caracteristicas</a>
             </div>
           </div>
         </td>
         
       </tr>
 
-      <tr class="posicion">  
-
-        <td><div class="card" style="width: 18rem;">
-          <img class="tamaño" src="" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="./html/oferta/caracaire.html" class="btn btn-primary">Comprar</a>
-          </div>
-        </div></td>
-        <td>
-          <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Comprar</a>
-            </div>
-          </div>
-        </td>
-        <td>
-          <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="./html/oferta/caracpc.html" class="btn btn-primary">Comprar</a>
-            </div>
-          </div>
-        </td>
-        
-      </tr>
-      <tr>  
-
-        <td><div class="card" style="width: 18rem;">
-          <img class="tamaño" src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Comprar</a>
-          </div>
-        </div></td>
-        <td>
-          <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-          </div>
-        </td>
-        <td>
-          <div class="card" style="width: 18rem;">
-            <img class="tamaño" src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-          </div>
-        </td>
-        
-      </tr>
-
+     
   </div>`;}
     function Cambioparlantes(){
       const Cambiocontenido =document.querySelector("#divcentral")
@@ -136,9 +76,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
     <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="./img/parlantesony.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Parlante sony</h5>
+      <p class="card-text">74000$</p>
       <a href="#" class="btn btn-primary">Comprar</a>
+      <a href="#" class="btn">Caracteristicas</a>
     </div>
   </div>
   
@@ -151,9 +92,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
   <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="./img/consola1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Consola bluethoo</h5>
+    <p class="card-text">54900$</p>
     <a href="#" class="btn btn-primary">Comprar</a>
+    <a href="#" class="btn">Comprar</a>
   </div>
 </div>
 
@@ -165,9 +107,11 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/estufa1.png" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">Estufa hogar</h5>
+  <p class="card-text">2500$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn">Comprar</a>
+</div>
 </div>
 </div>
 
@@ -178,9 +122,11 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/aire2.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">Aire acondicionado</h5>
+  <p class="card-text">49999$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn">caracteristicas</a>
+
 </div>
 </div>
 
@@ -191,9 +137,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/ventilador1.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">ventilador de piso</h5>
+  <p class="card-text">29000$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn">Caracteristicas</a>
 </div>
 </div>
 
@@ -204,9 +151,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/herramientas1.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">Herramientas</h5>
+  <p class="card-text">8900$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn">Comprar</a>
 </div>
 </div>
 
@@ -217,9 +165,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/bordeadora2.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">bordeadora chica</h5>
+  <p class="card-text">7500$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn ">Caracteristicas</a>
 </div>
 </div>
 
@@ -230,9 +179,10 @@ Cambiocontenido.innerHTML=`<div class="d-flex justify-content-center">
 <div class="card" style="width: 18rem;">
 <img class="card-img-top" src="./img/bordeadora1.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <h5 class="card-title">Desmalezadora grande</h5>
+  <p class="card-text">14500$</p>
   <a href="#" class="btn btn-primary">Comprar</a>
+  <a href="#" class="btn">Caracteristicas</a>
 </div>
 </div>
 
@@ -246,18 +196,20 @@ Cambiocontenido.innerHTML=`<table>
   <td ><div class="card" style="width: 18rem;">
     <img class="tamaño" src="./img/a20.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="./html/oferta/caraca20.html" class="btn btn-primary">Comprar</a>
+      <h5 class="card-title">A20</h5>
+      <p class="card-text">25000$</p>
+      <a href="" class="btn btn-primary">Comprar</a>
+      <a href="./html/oferta/caraca20.html" class="btn">Caracteristicas</a>
     </div>
   </div></td>
   <td>
     <div class="card" style="width: 18rem;">
-      <img class="tamaño" src="..." class="card-img-top" alt="...">
+      <img class="tamaño" src="./img/j7.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <h5 class="card-title">Samsung j7</h5>
+        <p class="card-text">15000$</p>
         <a href="#" class="btn btn-primary">Comprar</a>
+        <a href="#" class="btn">Caracteristicas</a>
       </div>
     </div>
   </td>
@@ -265,32 +217,36 @@ Cambiocontenido.innerHTML=`<table>
     <div class="card" style="width: 18rem;">
       <img class="tamaño" src="./img/a31.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a id="caract" href="./html/oferta/caraca31.html" class="btn btn-primary">Comprar</a>
+        <h5 class="card-title">Samsung A31</h5>
+        <p class="card-text">33000$</p>
+        <a href="" class="btn btn-primary">Comprar</a>
+        <a href="./html/oferta/caraca31.html" class="btn">Caracteristicas</a>
       </div>
     </div>
   </td>
   
 </tr>
 
-<tr class="posicion">  
+<tr>  
 
   <td><div class="card" style="width: 18rem;">
     <img class="tamaño" src="./img/aire.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="./html/oferta/caracaire.html" class="btn btn-primary">Comprar</a>
+      <h5 class="card-title">Aire acondicionado Inverter</h5>
+      <p class="card-text">59000$</p>
+      <a href="" class="btn btn-primary">Comprar</a>
+      <a href="./html/oferta/caracaire.html" class="btn">Caracteristicas</a>
     </div>
   </div></td>
   <td>
     <div class="card" style="width: 18rem;">
       <img class="tamaño" src="./img/bordeadora.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="./html/oferta/caraccortadora.html" class="btn btn-primary">Comprar</a>
+        <h5 class="card-title">Bordeadora hogareña</h5>
+        <p class="card-text">15000$</p>
+        <a href="" class="btn btn-primary">Comprar</a>
+        <a href="./html/oferta/caraccortadora.html" class="btn">Caracteristicas</a>
+      </div>
       </div>
     </div>
   </td>
@@ -298,9 +254,10 @@ Cambiocontenido.innerHTML=`<table>
     <div class="card" style="width: 18rem;">
       <img class="tamaño" src="./img/cpu.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="./html/oferta/caracpc.html" class="btn btn-primary">Comprar</a>
+        <h5 class="card-title">CPU GAMER</h5>
+        <p class="59999$</p>
+        <a href="" class="btn">Comprar</a>
+        <a href="./html/oferta/caracpc.html" class="btn btn-primary">Caracteristicas</a>
       </div>
     </div>
   </td>
@@ -309,30 +266,33 @@ Cambiocontenido.innerHTML=`<table>
 <tr>  
 
   <td><div class="card" style="width: 18rem;">
-    <img class="tamaño" src="..." class="card-img-top" alt="...">
+    <img class="tamaño" src="./img/play4.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Play 4</h5>
+      <p class="card-text">81000$</p>
       <a href="#" class="btn btn-primary">Comprar</a>
+      <a href="#" class="btn">Caracteristicas</a>
     </div>
   </div></td>
   <td>
     <div class="card" style="width: 18rem;">
-      <img class="tamaño" src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Comprar</a>
+    <img class="tamaño" src="./img/xboxx.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">XBOX X PLUS</h5>
+      <p class="card-text">76000$</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+      <a href="#" class="btn">Caracteristicas</a>
       </div>
     </div>
   </td>
   <td>
     <div class="card" style="width: 18rem;">
-      <img class="tamaño" src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Comprar</a>
+    <img class="tamaño" src="./img/iphone6.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Iphone6</h5>
+      <p class="card-text">71999$</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+      <a href="#" class="btn">Caracteristicas</a>
       </div>
     </div>
   </td>
@@ -343,4 +303,4 @@ Cambiocontenido.innerHTML=`<table>
 
 </div>`;}
 
-  
+
